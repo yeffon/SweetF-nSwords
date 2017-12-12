@@ -4,7 +4,12 @@ This game is a VR Hack n' Slash Sword Fighting Game. My group members and I used
 
 Group Members:
 
-James Fitch
-Brendon O'Connor(https://github.com/OConnoBP)
-Juwan Gross: Github Account-(https://github.com/grossj0816)
-Matthew Aspelund
+-Stephon Barrett (Me)
+
+-James Fitch
+
+-Brendon O'Connor(https://github.com/OConnoBP)
+
+-Juwan Gross: Github Account-(https://github.com/grossj0816)
+
+-Matthew Aspelund
