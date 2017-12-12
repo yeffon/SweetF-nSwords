@@ -1,0 +1,184 @@
+fileFormatVersion: 2
+guid: 5194e460bc2b83e46ad515658f3fe3ed
+timeCreated: 1509043368
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: dojo_enemy
+    100002: dojo_enemy_left_hand
+    100004: dojo_enemy_master
+    100006: dojo_enemy_neck
+    100008: dojo_enemy_right_hand
+    100010: dojo_enemy_top
+    100012: dojo_enemy_waist
+    100014: //RootNode
+    100016: group5
+    100018: pCube18
+    100020: pCube34
+    100022: pCube34 1
+    100024: pCylinder26
+    100026: pCylinder29
+    100028: pSphere30
+    100030: sword2_katana:pCube4
+    100032: sword2_katana:pCube5
+    100034: sword2_katana:pCylinder2
+    100036: sword2_katana:pCylinder3
+    100038: sword2_katana:transform10
+    100040: sword2_katana:transform11
+    100042: sword2_katana:transform9
+    100044: transform1
+    100046: transform2
+    100048: transform3
+    100050: transform4
+    100052: transform5
+    100054: transform6
+    400000: dojo_enemy
+    400002: dojo_enemy_left_hand
+    400004: dojo_enemy_master
+    400006: dojo_enemy_neck
+    400008: dojo_enemy_right_hand
+    400010: dojo_enemy_top
+    400012: dojo_enemy_waist
+    400014: //RootNode
+    400016: group5
+    400018: pCube18
+    400020: pCube34
+    400022: pCube34 1
+    400024: pCylinder26
+    400026: pCylinder29
+    400028: pSphere30
+    400030: sword2_katana:pCube4
+    400032: sword2_katana:pCube5
+    400034: sword2_katana:pCylinder2
+    400036: sword2_katana:pCylinder3
+    400038: sword2_katana:transform10
+    400040: sword2_katana:transform11
+    400042: sword2_katana:transform9
+    400044: transform1
+    400046: transform2
+    400048: transform3
+    400050: transform4
+    400052: transform5
+    400054: transform6
+    2300000: dojo_enemy_left_hand
+    2300002: dojo_enemy_right_hand
+    2300004: sword2_katana:pCube5
+    3300000: dojo_enemy_left_hand
+    3300002: dojo_enemy_right_hand
+    3300004: sword2_katana:pCube5
+    4300000: dojo_enemy
+    4300002: dojo_enemy_left_hand
+    4300004: dojo_enemy_right_hand
+    4300006: sword2_katana:pCube5
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: dojo_enemy
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert12
+    second: {fileID: 2100000, guid: 9f03e9dfe2840b3428f3bf8895284d47, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert8
+    second: {fileID: 2100000, guid: de232bfcb3910e14e8dfa87f8974a245, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert9
+    second: {fileID: 2100000, guid: a1d1b20d350ca3b47ba13fa73f2300cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sword2_katana_Handle
+    second: {fileID: 2100000, guid: 835f92049ae266d4a99022d4de92afa1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sword2_katana_Hilt
+    second: {fileID: 2100000, guid: b5905be9348d8f84ab5cdecb8b089c8f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sword2_katana_Sword
+    second: {fileID: 2100000, guid: 3f1d1b00564302a4d8ed4e878f15b447, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

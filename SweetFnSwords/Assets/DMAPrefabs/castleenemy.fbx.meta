@@ -1,0 +1,151 @@
+fileFormatVersion: 2
+guid: 0bb0ac18ff55cd14d8d98ae254abddf2
+timeCreated: 1509051993
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: enemies_rigged_up1:castle_eenemy_top
+    100004: enemies_rigged_up1:castle_enemy
+    100006: enemies_rigged_up1:castle_enemy_left_hand
+    100008: enemies_rigged_up1:castle_enemy_master
+    100010: enemies_rigged_up1:castle_enemy_neck
+    100012: enemies_rigged_up1:castle_enemy_right_hand
+    100014: enemies_rigged_up1:castle_enemy_waist
+    100016: sword2_katana:pCube5
+    400000: //RootNode
+    400002: enemies_rigged_up1:castle_eenemy_top
+    400004: enemies_rigged_up1:castle_enemy
+    400006: enemies_rigged_up1:castle_enemy_left_hand
+    400008: enemies_rigged_up1:castle_enemy_master
+    400010: enemies_rigged_up1:castle_enemy_neck
+    400012: enemies_rigged_up1:castle_enemy_right_hand
+    400014: enemies_rigged_up1:castle_enemy_waist
+    400016: sword2_katana:pCube5
+    2300000: enemies_rigged_up1:castle_enemy_left_hand
+    2300002: enemies_rigged_up1:castle_enemy_right_hand
+    2300004: sword2_katana:pCube5
+    3300000: enemies_rigged_up1:castle_enemy_left_hand
+    3300002: enemies_rigged_up1:castle_enemy_right_hand
+    3300004: sword2_katana:pCube5
+    4300000: sword2_katana:pCube5
+    4300002: enemies_rigged_up1:castle_enemy
+    4300004: enemies_rigged_up1:castle_enemy_left_hand
+    4300006: enemies_rigged_up1:castle_enemy_right_hand
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: enemies_rigged_up1:castle_enemy
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: enemies_rigged_up1_blinn1
+    second: {fileID: 2100000, guid: 1cf702bf4cbfcb447bfd17ade7885273, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: enemies_rigged_up1_lambert11
+    second: {fileID: 2100000, guid: 7f18dd0330415104da6ecc4e40f0acdf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: enemies_rigged_up1_lambert12
+    second: {fileID: 2100000, guid: baac2b6cf57580248a9e25b528d2bf3f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: enemies_rigged_up1_phongE1
+    second: {fileID: 2100000, guid: 10e1f71332ee8584d844eb6ac80e11b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sword2_katana_Handle
+    second: {fileID: 2100000, guid: 835f92049ae266d4a99022d4de92afa1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sword2_katana_Hilt
+    second: {fileID: 2100000, guid: b5905be9348d8f84ab5cdecb8b089c8f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sword2_katana_Sword
+    second: {fileID: 2100000, guid: 3f1d1b00564302a4d8ed4e878f15b447, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
